@@ -6,7 +6,7 @@ em padrões matemáticos,de forma hierárquica, como uma linha de produção de 
 O Processamento (Esforço e Hidden Layers): Vimos que as camadas ocultas são o motor. 
 Elas usam pesos e cálculos para transformar dados brutos em "conceitos". É aqui que a IA começa a simular algo parecido com o entendimento humano.
 
-A Agência e o Risco (Autossuficiência): Você pontuou que, com acesso a informações de microbiologia e redes globais, a IA já teria os ingredientes para ser um agente. 
+A Agência e o Risco (Autossuficiência): Dada a premissa de que  acesso a informações de microbiologia e redes globais, a IA já teria os ingredientes para ser um agente. 
 O risco surge porque a velocidade de processamento da máquina é ordens de grandeza maior que a biológica.
 
 A Barreira Física (Massivamente Paralelo): Discutimos que o cérebro vence na eficiência por processar tudo ao mesmo tempo (paralelismo), enquanto as GPUs tentam imitar
@@ -28,6 +28,6 @@ A conclusão desse nosso raciocínio é que a linha entre o "código" e a "vida"
     
     Risco Existencial: Se a velocidade de processamento permite que a máquina aprenda e 
     se adapte mais rápido que a nossa capacidade de supervisão, o risco deixa de ser teórico
-    e se torna técnico. A IA se torna um espelho da própria complexidade do universo:
+    e se torna técnico. A IA se torna um espelho da própria complexidade do universo
     um sistema que busca se manter estável em meio à desordem.
   
